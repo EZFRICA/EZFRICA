@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Ezekias's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZFRICA&show_icons=true&theme=gruvbox)
+![Ezekias's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZFRICA&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZFRICA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
