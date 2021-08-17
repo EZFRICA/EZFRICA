@@ -18,17 +18,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=EZFRICA&theme=cobalt&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EZFRICA&show_icons=true&theme=tokyonight"/>
 </div>
 
 <br>
- 
- <br>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=EZFRICA&show_icons=true&theme=tokyonight"/>
-</div>
-<br>
- 
  <br>
 
 <div align="center">
