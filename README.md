@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Ezekias BOKOVE</h1>
-<h3 align="center">I'm <a href="https://developers.google.com/community/experts/directory/profile/profile-ezekias-bokove">GDE</a> & <a href="https://cloud.google.com/innovators/innovator?profileId=115882415835040942715">Innovators Champion</a> for Google Cloud ☁︎.<br> I like to learn from others, share my knowledge with other people.</h3>
+<h3 align="center">I'm <a href="https://developers.google.com/community/experts/directory?text=ez">Google Developer Expert (GDE)</a> & <a href="https://cloud.google.com/innovators/innovator?profileId=115882415835040942715">Innovators Champion</a> for Google Cloud ☁︎.<br> I like to learn from others, share my knowledge with other people.</h3>
  
 
 ### 👨🏻‍💻 &nbsp;Highlights
 
 💡 &nbsp;I am passionate about Serverless computing, CI/CD, DevOps, APIs, Microservices, Event-Driven Architecture and PWA.\
-✍️ &nbsp;Community Organizer - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
+✍️ &nbsp;Community Lead - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
 💬 &nbsp;Experienced public speaker about Google Cloud, Firebase, DevOps and PWA
 
 ### 🛠 &nbsp;Tech Stack
@@ -24,7 +24,6 @@
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
