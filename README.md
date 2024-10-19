@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;Highlights
 
-💡 &nbsp;I am passionate about Serverless, CI/CD, DevOps, APIs, Microservices, Event-Driven Architecture and PWA.\
+💡 &nbsp;I am passionate about Serverless computing, CI/CD, DevOps, APIs, Microservices, Event-Driven Architecture and PWA.\
 ✍️ &nbsp;Community Lead - Google Developer Groups [GDG Cloud Abidjan](https://gdg.community.dev/gdg-cloud-abidjan/)\
 💬 &nbsp;Experienced public speaker about Google Cloud, Firebase, DevOps and PWA
 
