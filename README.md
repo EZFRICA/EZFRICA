@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ezekias BOKOVE</h1>
-<h3 align="center">I'm <a href="https://developers.google.com/community/experts/directory?text=ez">Google Developer Expert (GDE)</a> for Google Cloud ☁︎.<br> I like to learn from others, share my knowledge with other people.</h3>
+<h3 align="center">I'm <a href="https://developers.google.com/community/experts/directory?specialization=gcp">Google Developer Expert (GDE)</a> for Google Cloud ☁︎.<br> I like to learn from others, share my knowledge with other people.</h3>
  
 
 ### 👨🏻‍💻 &nbsp;Highlights
